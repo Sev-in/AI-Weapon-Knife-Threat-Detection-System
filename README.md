@@ -30,8 +30,8 @@ Bu proje, gerçek zamanlı olarak silah ve bıçak tespiti yapabilen, tehdit sev
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI_ADI/REPO_ADI.git
-cd REPO_ADI
+git clone https://github.com/Sev-in/AI-Weapon-Knife-Threat-Detection-System.git
+cd AI-Weapon-Knife-Threat-Detection-System
 
 pip install ultralytics streamlit opencv-contrib-python numpy pillow pandas imageio-ffmpeg
 ```
