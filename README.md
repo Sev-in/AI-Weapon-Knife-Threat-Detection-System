@@ -124,9 +124,9 @@ YOLOv8 ile eğitilmiştir.
 
 ---
 
-## 📊 Model Performance
+## 📊 Model Performansı
 
-Model evaluation results:
+Model değerlendirme sonuçları:
 
 - mAP@50: **0.98**
 - mAP@50-95: **0.81**
