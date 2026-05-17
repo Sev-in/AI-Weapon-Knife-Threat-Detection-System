@@ -124,6 +124,17 @@ YOLOv8 ile eğitilmiştir.
 
 ---
 
+## 📊 Model Performance
+
+Model evaluation results:
+
+- mAP@50: **0.98**
+- mAP@50-95: **0.81**
+- Precision: **0.97**
+- Recall: **0.96**
+
+---
+
 ## 📈 Logging Sistemi
 
 - Frame bazlı kayıt
@@ -145,7 +156,9 @@ YOLOv8 ile eğitilmiştir.
 ## 👨‍💻 Geliştirici
 
 Bu proje yapay zeka tabanlı güvenlik sistemleri üzerine geliştirilmiştir.
+
 Şevin Sönmez
+
 Hatice Betül Aydemir
 
 ---
