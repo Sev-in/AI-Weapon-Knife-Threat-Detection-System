@@ -1,0 +1,62 @@
+# ama klasör yapısını geri aç
+runs/*
+!runs/detect/
+!runs/detect/runs_detect/
+!runs/detect/runs_detect/gun_knife_yolov8n/
+!runs/detect/runs_detect/gun_knife_yolov8n/weights/
+!runs/detect/runs_detect/gun_knife_yolov8n/weights/best.pt
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# VSCode
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
+
+# ======================
+# DATASETS (ÇOK ÖNEMLİ)
+# ======================
+merged_gun_knife_dataset/
+merged_gun_knife_dataset_balanced/
+negative_dataset/
+negative_dataset_augmented/
+duplicates_removed/
+
+# ======================
+# TRAIN OUTPUTS
+# ======================
+video_results/
+
+# ======================
+# MEDIA
+# ======================
+*.avi
+*.mp4
+*.jpg
+*.png
+
+# ======================
+# MODEL (opsiyonel)
+# ======================
+yolov8s.pt
+yolo26n.pt
+
+# (best.pt eğer kullanıyorsan burada ignore ETME)
+# best.pt
+
+# ======================
+# ENV
+# ======================
+.env
